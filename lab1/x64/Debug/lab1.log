@@ -1,0 +1,5 @@
+﻿  lab1.cpp
+C:\Users\koldun\Desktop\labs\os\lab1\lab1\lab1\lab1.cpp(8,25): warning C4101: pi: неиспользованная локальная переменная
+C:\Users\koldun\Desktop\labs\os\lab1\lab1\lab1\lab1.cpp(20,5): error C2059: синтаксическая ошибка: return
+C:\Users\koldun\Desktop\labs\os\lab1\lab1\lab1\lab1.cpp(21,1): error C2059: синтаксическая ошибка: }
+C:\Users\koldun\Desktop\labs\os\lab1\lab1\lab1\lab1.cpp(21,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
